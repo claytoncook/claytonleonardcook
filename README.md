@@ -1,3 +1,4 @@
+<!-- ? Uncomment for printing
 <style>
     h1,
     h3,
@@ -16,6 +17,7 @@
         grid-template-columns: 1fr 1fr 1fr;
     }
 </style>
+-->
 
 # Clayton Leonard Cook | Software Engineer
 
