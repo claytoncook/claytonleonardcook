@@ -193,7 +193,7 @@ September&nbsp;2019 - May 2025
 
 2022 - 2023&emsp;**Google&nbsp;Developer&nbsp;Student&nbsp;Club** | Vice&nbsp;President
 
-2021 - Present&emsp;**Association&nbsp;of&nbsp;Computer&nbsp;Machinery** | Member & Workship Leader
+2021 - Present&emsp;**Association&nbsp;of&nbsp;Computer&nbsp;Machinery** | Member & Workshop Leader
 
 2019 - 2022&emsp;**Science&nbsp;Olympiad** | Coach
 
