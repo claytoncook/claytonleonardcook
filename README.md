@@ -124,7 +124,8 @@ May&nbsp;2022 - November&nbsp;2023
     <li>Worked with external teams for quality assurance and design.</li>
 </ul>
 
-<br style="clear: both; page-break-after: always;"/>
+<br/>
+<div style="page-break-after: always;"></div>
 
 January&nbsp;2021 - February&nbsp;2021
 
