@@ -21,7 +21,7 @@
 
 # Clayton Leonard Cook | Software Engineer
 
-**Bay City, Michigan** | [claytonleonardcook@gmail.com](mailto:claytonleonardcook+work@gmail.com)
+**Bay City, Michigan** | [work@claytonleonardcook.com](mailto:work@claytonleonardcook.com)
 
 <br/>
 
