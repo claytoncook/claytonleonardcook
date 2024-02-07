@@ -19,15 +19,6 @@
 </style>
 -->
 
-<style>
-    @media print {
-        .pagebreak {
-            clear: both;
-            page-break-after: always;
-        }
-    }
-</style>
-
 # Clayton Leonard Cook | Software Engineer
 
 **Bay City, Michigan** | [work@claytonleonardcook.com](mailto:work@claytonleonardcook.com)
@@ -133,7 +124,7 @@ May&nbsp;2022 - November&nbsp;2023
     <li>Worked with external teams for quality assurance and design.</li>
 </ul>
 
-<br class="pagebreak"/>
+<br style="clear: both; page-break-after: always;"/>
 
 January&nbsp;2021 - February&nbsp;2021
 
