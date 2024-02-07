@@ -222,8 +222,12 @@ September&nbsp;2019 - May 2025
 
 2021, 2022, 2023 **CS&nbsp;Department&nbsp;Coding&nbsp;Competition**
 
+<!--
+
 </br>
 
 <p class="qr-codes" align="center">
     <img src="public/readme/websiteqrcode.svg" /><img src="public/readme/linkedinqrcode.svg" /><img src="public/readme/githubqrcode.svg" />
 </p>
+
+-->
