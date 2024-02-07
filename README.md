@@ -25,6 +25,29 @@
 
 <br/>
 
+
+January&nbsp;2024 - Present
+
+### **Cellar&nbsp;Door @ [Garanimals](https://www.garanimals.com/)** | Remote
+
+<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
+<img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
+<img style="height: 1em;" src="public/readme/graphql.svg" />&nbsp;GraphQL&nbsp;
+<img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
+
+<!--
+
+<ul>
+    <li>Translated mockups to React Native components for reuse.</li>
+    <li>Implemented multiple general-use components for user interactions.</li>
+    <li>Streamlined client review process using Expo's EAS system for internal distrubution.</li>
+    <li>Created sanitized forms with responsive errors using Formik and Yup.</li>
+</ul>
+
+-->
+
+<br/>
+
 December&nbsp;2022 - Present
 
 ### **Campbell&nbsp;Ewald @ [EverBank](https://www.everbank.com)** | Remote
@@ -63,7 +86,7 @@ October&nbsp;2022 - January&nbsp;2023
 
 <br/>
 
-August&nbsp;2022 - Present
+August&nbsp;2022 - October&nbsp;2023
 
 ### **Cellar&nbsp;Door @ [Factimize](https://www.factimize.com)** | Remote
 
@@ -83,7 +106,7 @@ August&nbsp;2022 - Present
 
 <br/>
 
-May&nbsp;2022 - Present
+May&nbsp;2022 - November&nbsp;2023
 
 ### **Cellar&nbsp;Door @ [Peloton](https://www.onepeloton.com)/[Precor](https://www.precor.com)** | Remote
 
