@@ -166,7 +166,7 @@ December&nbsp;2019 - March&nbsp;2020
 
 <br/>
 
-June&nbsp;2018 - July&nbsp;2018 **Onflo @ [Perfect Landing Rentals](https://perfectlandingrentals.com)** | Tawas,&nbsp;MI
+**Onflo @ [Perfect Landing Rentals](https://perfectlandingrentals.com)** | Tawas,&nbsp;MI (June&nbsp;2018 - July&nbsp;2018)
 
 <img style="height: 1em;" src="public/readme/angular.svg" />&nbsp;Angular&nbsp;
 <img style="height: 1em;" src="public/readme/javascript.svg" />&nbsp;Javascript&nbsp;
