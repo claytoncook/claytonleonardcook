@@ -120,9 +120,7 @@ May&nbsp;2022 - November&nbsp;2023
 
 <br/>
 
-January&nbsp;2021 - February&nbsp;2021
-
-### **Onflo @ [DirectKey](https://direct-key.vercel.app)** | Remote
+**Onflo @ [DirectKey](https://direct-key.vercel.app)** | Remote | *January&nbsp;2021 - February&nbsp;2021*
 
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
@@ -142,9 +140,7 @@ January&nbsp;2021 - February&nbsp;2021
 
 <br/>
 
-December&nbsp;2019 - March&nbsp;2020
-
-### **Onflo @ [Dinr](https://github.com/jadeallencook/dinr)** | Saginaw,&nbsp;MI
+**Onflo @ [Dinr](https://github.com/jadeallencook/dinr)** | Saginaw,&nbsp;MI | *December&nbsp;2019 - March&nbsp;2020*
 
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/redux.svg" />&nbsp;Redux&nbsp;
