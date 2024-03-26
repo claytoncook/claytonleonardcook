@@ -26,7 +26,7 @@
 <br/>
 
 
-January&nbsp;2024 - Present
+*January&nbsp;2024 - Present*
 
 ### **Cellar&nbsp;Door @ [Garanimals](https://www.garanimals.com/) & [Easy-Peasy](https://www.easypeasy.com/)** | Remote
 
@@ -45,7 +45,7 @@ January&nbsp;2024 - Present
 
 <br/>
 
-December&nbsp;2022 - Feburary&nbsp;2024
+*December&nbsp;2022 - Feburary&nbsp;2024*
 
 ### **Campbell&nbsp;Ewald @ [EverBank](https://www.everbank.com)** | Remote
 
@@ -63,7 +63,7 @@ December&nbsp;2022 - Feburary&nbsp;2024
 
 <br/>
 
-October&nbsp;2022 - January&nbsp;2023
+*October&nbsp;2022 - January&nbsp;2023*
 
 ### **Cellar&nbsp;Door @ [Beef Jerky Experience](https://beefjerkyx.com)** | Remote
 
@@ -82,7 +82,7 @@ October&nbsp;2022 - January&nbsp;2023
 
 <br/>
 
-August&nbsp;2022 - October&nbsp;2023
+*August&nbsp;2022 - October&nbsp;2023*
 
 ### **Cellar&nbsp;Door @ [Factimize](https://www.factimize.com)** | Remote
 
@@ -101,7 +101,7 @@ August&nbsp;2022 - October&nbsp;2023
 
 <br/>
 
-May&nbsp;2022 - November&nbsp;2023
+*May&nbsp;2022 - November&nbsp;2023*
 
 ### **Cellar&nbsp;Door @ [Peloton](https://www.onepeloton.com)/[Precor](https://www.precor.com)** | Remote
 
