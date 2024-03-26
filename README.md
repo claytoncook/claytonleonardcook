@@ -32,6 +32,7 @@ January&nbsp;2024 - Present
 
 <img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
+<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/graphql.svg" />&nbsp;GraphQL&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 
