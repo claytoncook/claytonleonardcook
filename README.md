@@ -30,8 +30,8 @@ January&nbsp;2024 - Present
 
 ### **Cellar&nbsp;Door @ [Garanimals](https://www.garanimals.com/) & [Easy-Peasy](https://www.easypeasy.com/)** | Remote
 
-<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
+<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/graphql.svg" />&nbsp;GraphQL&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
@@ -49,10 +49,9 @@ December&nbsp;2022 - Feburary&nbsp;2024
 
 ### **Campbell&nbsp;Ewald @ [EverBank](https://www.everbank.com)** | Remote
 
-<img style="height: 1em;" src="public/readme/html5.svg" />&nbsp;HTML5&nbsp;
+<img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
-<img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 
 <ul>
@@ -68,8 +67,8 @@ October&nbsp;2022 - January&nbsp;2023
 
 ### **Cellar&nbsp;Door @ [Beef Jerky Experience](https://beefjerkyx.com)** | Remote
 
-<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
+<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/graphql.svg" />&nbsp;GraphQL&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 <img style="height: 1em;" src="public/readme/expo.svg" />&nbsp;Expo&nbsp;
@@ -87,10 +86,9 @@ August&nbsp;2022 - October&nbsp;2023
 
 ### **Cellar&nbsp;Door @ [Factimize](https://www.factimize.com)** | Remote
 
-<img style="height: 1em;" src="public/readme/html5.svg" />&nbsp;HTML5&nbsp;
-<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
-<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
+<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript
+<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/graphql.svg" />&nbsp;GraphQL&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 
@@ -107,10 +105,9 @@ May&nbsp;2022 - November&nbsp;2023
 
 ### **Cellar&nbsp;Door @ [Peloton](https://www.onepeloton.com)/[Precor](https://www.precor.com)** | Remote
 
-<img style="height: 1em;" src="public/readme/html5.svg" />&nbsp;HTML5&nbsp;
-<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
-<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
+<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
+<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/graphql.svg" />&nbsp;GraphQL&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 
@@ -127,10 +124,9 @@ January&nbsp;2021 - February&nbsp;2021
 
 ### **Onflo @ [DirectKey](https://direct-key.vercel.app)** | Remote
 
-<img style="height: 1em;" src="public/readme/html5.svg" />&nbsp;HTML5&nbsp;
+<img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/javascript.svg" />&nbsp;Javascript&nbsp;
-<img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 
 <!--
@@ -150,11 +146,10 @@ December&nbsp;2019 - March&nbsp;2020
 
 ### **Onflo @ [Dinr](https://github.com/jadeallencook/dinr)** | Saginaw,&nbsp;MI
 
-<img style="height: 1em;" src="public/readme/html5.svg" />&nbsp;HTML5&nbsp;
-<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
-<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/redux.svg" />&nbsp;Redux&nbsp;
+<img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
+<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/firebase.svg" />&nbsp;Firebase&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 
@@ -175,10 +170,9 @@ June&nbsp;2018 - July&nbsp;2018
 
 ### **Onflo @ [Perfect Landing Rentals](https://perfectlandingrentals.com)** | Tawas,&nbsp;MI
 
-<img style="height: 1em;" src="public/readme/html5.svg" />&nbsp;HTML5&nbsp;
-<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
-<img style="height: 1em;" src="public/readme/javascript.svg" />&nbsp;Javascript&nbsp;
 <img style="height: 1em;" src="public/readme/angular.svg" />&nbsp;Angular&nbsp;
+<img style="height: 1em;" src="public/readme/javascript.svg" />&nbsp;Javascript&nbsp;
+<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/bootstrap.svg" />&nbsp;Bootstrap&nbsp;
 <img style="height: 1em;" src="public/readme/firebase.svg" />&nbsp;Firebase&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
@@ -201,7 +195,7 @@ September&nbsp;2019 - May 2025
 ### **[Saginaw Valley State University](https://www.svsu.edu)** | Bachelor&nbsp;of&nbsp;Science&nbsp;in&nbsp;Computer Science
 
 <ul>
-    <li>Attended Java classes to learn syntax, major data structures, and algorithms.</li>
+    <li>Hosted and volunteered for ACM's High School Programming Competition (HSPC).</li>
     <li>Deployed a React/Firebase application for web development class.</li>
     <li>Worked alongside professor as a student researcher for deep learning.</li>
     <li>Tutored peers in languages like Java, C, C++, Visual Basic, and Javascript.</li>
@@ -213,7 +207,7 @@ September&nbsp;2019 - May 2025
 
 2022 - 2023&emsp;**Google&nbsp;Developer&nbsp;Student&nbsp;Club** | Vice&nbsp;President
 
-2021 - Present&emsp;**Association&nbsp;of&nbsp;Computer&nbsp;Machinery** | Member & Workshop Leader
+2021 - 2025&emsp;**Association&nbsp;of&nbsp;Computer&nbsp;Machinery** | Member & Workshop Leader
 
 2019 - 2022&emsp;**Science&nbsp;Olympiad** | Coach
 
