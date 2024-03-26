@@ -123,8 +123,8 @@ May&nbsp;2022 - November&nbsp;2023
 **Onflo @ [DirectKey](https://direct-key.vercel.app)** | Remote | *January&nbsp;2021 - February&nbsp;2021*
 
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
-<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/javascript.svg" />&nbsp;Javascript&nbsp;
+<img style="height: 1em;" src="public/readme/sass.svg" />&nbsp;SCSS&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 
 <!--
