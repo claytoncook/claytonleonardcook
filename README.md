@@ -28,27 +28,23 @@
 
 January&nbsp;2024 - Present
 
-### **Cellar&nbsp;Door @ [Garanimals](https://www.garanimals.com/)** | Remote
+### **Cellar&nbsp;Door @ [Garanimals](https://www.garanimals.com/) & [Easy-Peasy](https://www.easypeasy.com/)** | Remote
 
 <img style="height: 1em;" src="public/readme/typescript.svg" />&nbsp;Typescript&nbsp;
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/graphql.svg" />&nbsp;GraphQL&nbsp;
 <img style="height: 1em;" src="public/readme/git.svg" />&nbsp;GIT&nbsp;
 
-<!--
-
 <ul>
-    <li>Translated mockups to React Native components for reuse.</li>
-    <li>Implemented multiple general-use components for user interactions.</li>
-    <li>Streamlined client review process using Expo's EAS system for internal distrubution.</li>
-    <li>Created sanitized forms with responsive errors using Formik and Yup.</li>
+    <li>Laid foundation for dynamic and useable components to be used for multiple projects.</li>
+    <li>Structured styling systems that allowed for easy configuration and viewing.</li>
+    <li>Leveraged Storybook for developer, authoring and QA documentation.</li>
+    <li>Strived for a DRY coding style that maked it easy for new developer onboarding.</li>
 </ul>
-
--->
 
 <br/>
 
-December&nbsp;2022 - Present
+December&nbsp;2022 - Feburary&nbsp;2024
 
 ### **Campbell&nbsp;Ewald @ [EverBank](https://www.everbank.com)** | Remote
 
