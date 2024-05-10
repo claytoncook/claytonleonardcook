@@ -1,56 +1,20 @@
 {
   "name": "claytonleonardcook",
-  "version": "1.0.0",
-  "repository": "git@github.com:claytonleonardcook/claytonleonardcook.git",
-  "author": "claytonleonardcook <claytonleonardcook+github@gmail.com>",
-  "license": "MIT",
   "type": "module",
-  "dependencies": {
-    "@astrojs/mdx": "^0.19.7",
-    "@astrojs/svelte": "^2.1.1",
-    "astro": "^2.3.3",
-    "astro-icon": "^0.8.1",
-    "svelte": "^3.54.0",
-    "typescript": "^5.0.4"
-  },
+  "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro check && astro build",
     "preview": "astro preview",
-    "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "format": "prettier --write .",
-    "check-format": "prettier --check .",
-    "check-types": "tsc --pretty --noEmit",
-    "template": "tsc && plop",
-    "prepare": "husky install"
+    "astro": "astro"
   },
-  "devDependencies": {
-    "@storybook/addon-essentials": "^7.0.12",
-    "@storybook/addon-interactions": "^7.0.12",
-    "@storybook/addon-links": "^7.0.12",
-    "@storybook/addon-styling": "^1.0.8",
-    "@storybook/addon-svelte-csf": "^3.0.2",
-    "@storybook/blocks": "^7.0.12",
-    "@storybook/preset-scss": "^1.0.3",
-    "@storybook/svelte": "^7.0.12",
-    "@storybook/svelte-vite": "^7.0.12",
-    "@storybook/sveltekit": "^7.0.12",
-    "@storybook/testing-library": "^0.0.14-next.2",
-    "husky": "^8.0.3",
-    "plop": "^3.1.2",
-    "prettier": "^2.8.8",
-    "prettier-plugin-svelte": "^2.10.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "sass": "^1.62.1",
-    "storybook": "^7.0.12",
-    "svelte-loader": "^3.1.7",
-    "svelte-preprocess": "^5.0.3",
-    "svelte-preprocess-sass": "^2.0.1",
-    "vite": "^4.3.8",
-    "vite-tsconfig-paths": "^4.2.0",
-    "webpack": "^5.83.1"
+  "dependencies": {
+    "@astrojs/mdx": "^3.0.0",
+    "@astrojs/rss": "^4.0.5",
+    "@astrojs/sitemap": "^3.1.4",
+    "astro": "^4.8.2",
+    "@astrojs/check": "^0.6.0",
+    "typescript": "^5.4.5"
   }
 }

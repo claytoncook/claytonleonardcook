@@ -1,16 +1,10 @@
-import {defineConfig} from 'astro/config';
-import svelte, {vitePreprocess} from '@astrojs/svelte';
-import {sass} from 'svelte-preprocess';
-import tsconfigPaths from 'vite-tsconfig-paths';
-
+import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
+
+import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [
-    svelte({
-      preprocess: [tsconfigPaths(), vitePreprocess(), sass()],
-    }),
-    mdx(),
-  ],
+	site: 'https://example.com',
+	integrations: [mdx(), sitemap()],
 });
