@@ -25,8 +25,7 @@
 
 <br/>
 
-
-*January&nbsp;2024 - Present*
+_January&nbsp;2024 - Present_
 
 ### **Cellar&nbsp;Door @ [Garanimals](https://www.garanimals.com/) & [Easy-Peasy](https://www.easypeasy.com/)** | Remote
 
@@ -45,7 +44,7 @@
 
 <br/>
 
-*December&nbsp;2022 - Feburary&nbsp;2024*
+_December&nbsp;2022 - Feburary&nbsp;2024_
 
 ### **Campbell&nbsp;Ewald @ [EverBank](https://www.everbank.com)** | Remote
 
@@ -63,7 +62,7 @@
 
 <br/>
 
-*October&nbsp;2022 - January&nbsp;2023*
+_October&nbsp;2022 - January&nbsp;2023_
 
 ### **Cellar&nbsp;Door @ [Beef Jerky Experience](https://beefjerkyx.com)** | Remote
 
@@ -82,7 +81,7 @@
 
 <br/>
 
-*August&nbsp;2022 - October&nbsp;2023*
+_August&nbsp;2022 - October&nbsp;2023_
 
 ### **Cellar&nbsp;Door @ [Factimize](https://www.factimize.com)** | Remote
 
@@ -101,7 +100,7 @@
 
 <br/>
 
-*May&nbsp;2022 - November&nbsp;2023*
+_May&nbsp;2022 - November&nbsp;2023_
 
 ### **Cellar&nbsp;Door @ [Peloton](https://www.onepeloton.com)/[Precor](https://www.precor.com)** | Remote
 
@@ -120,7 +119,7 @@
 
 <br/>
 
-**Onflo @ [DirectKey](https://direct-key.vercel.app)** | Remote | *January&nbsp;2021 - February&nbsp;2021*
+**Onflo @ [DirectKey](https://direct-key.vercel.app)** | Remote | _January&nbsp;2021 - February&nbsp;2021_
 
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/javascript.svg" />&nbsp;Javascript&nbsp;
@@ -140,7 +139,7 @@
 
 <br/>
 
-**Onflo @ [Dinr](https://github.com/jadeallencook/dinr)** | Saginaw,&nbsp;MI | *December&nbsp;2019 - March&nbsp;2020*
+**Onflo @ [Dinr](https://github.com/jadeallencook/dinr)** | Saginaw,&nbsp;MI | _December&nbsp;2019 - March&nbsp;2020_
 
 <img style="height: 1em;" src="public/readme/react.svg" />&nbsp;React&nbsp;
 <img style="height: 1em;" src="public/readme/redux.svg" />&nbsp;Redux&nbsp;
@@ -162,7 +161,7 @@
 
 <br/>
 
-**Onflo @ [Perfect Landing Rentals](https://perfectlandingrentals.com)** | Tawas,&nbsp;MI | *June&nbsp;2018 - July&nbsp;2018*
+**Onflo @ [Perfect Landing Rentals](https://perfectlandingrentals.com)** | Tawas,&nbsp;MI | _June&nbsp;2018 - July&nbsp;2018_
 
 <img style="height: 1em;" src="public/readme/angular.svg" />&nbsp;Angular&nbsp;
 <img style="height: 1em;" src="public/readme/javascript.svg" />&nbsp;Javascript&nbsp;
