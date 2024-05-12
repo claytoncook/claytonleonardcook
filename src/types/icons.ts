@@ -1,0 +1,1 @@
+export type TypeIcons = "bluesky" | "github" | "calendar" | "linkedin";

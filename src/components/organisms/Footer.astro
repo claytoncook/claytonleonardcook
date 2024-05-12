@@ -1,0 +1,27 @@
+---
+import { Link } from "@/components/molecules";
+import { NAME } from "@/consts";
+const today = new Date();
+---
+
+<footer class="flex flex-col items-center text-ctp-text gap-2 pb-12 pt-6">
+  &copy; {today.getFullYear()}
+  {NAME}. All rights reserved.
+  <div class="flex flex-row gap-2">
+    <Link
+      href="https://bsky.app/profile/claytonleonardcook.com"
+      target="_blank"
+      icon="bluesky"
+    />
+    <Link
+      href="https://github.com/claytonleonardcook"
+      target="_blank"
+      icon="github"
+    />
+    <Link
+      href="https://www.linkedin.com/in/claytonlcook/"
+      target="_blank"
+      icon="linkedin"
+    />
+  </div>
+</footer>

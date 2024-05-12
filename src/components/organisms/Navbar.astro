@@ -1,0 +1,17 @@
+---
+import { BLUESKY, GITHUB, LINKEDIN, TITLE } from "@/consts";
+import { Link } from "@/components/molecules";
+---
+
+<nav class="flex flex-row gap-8 p-4 text-ctp-text">
+  <h2 class="font-bold"><a href="/">{TITLE}</a></h2>
+  <div class="flex flex-grow gap-2">
+    <Link href="/" target="_self" text="Home" />
+    <Link href="/about" target="_self" text="About" />
+  </div>
+  <div class="hidden flex-row sm:flex gap-2">
+    <Link href={BLUESKY} target="_blank" icon="bluesky" />
+    <Link href={GITHUB} target="_blank" icon="github" />
+    <Link href={LINKEDIN} target="_blank" icon="linkedin" />
+  </div>
+</nav>
